@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Joker App</string>
+    <string name="menu_home">Início</string>
+    <string name="menu_joke_day">Piada do Dia</string>
+    <string name="menu_about">Sobre</string>
+    <string name="social">Social</string>
+    <string name="chuck_about">Carlos Ray Norris, conhecido mundialmente como  “Chuck Norris” é um artista de artes marciais, ator, produtor de cinema e argumentista americano.\n\n No universo virtual, existem muitas lendas sobre ele, como: “Chuck Norris contou até o infinito. Duas vezes”, “Chuck Norris ganhou medalha olímpica de natação e nem ao menos se molhou”, essas piadinhas foram denominadas Chuck Norris facts.</string>
+    <string name="build_version">Versão (%1$s)</string>
+    <string name="link">https://shre.ink/mais-sobre-chuck-norris</string>
+    <string name="app_about">App desenvolvido durante o curso Android Express, utilizando Kotlin e Frameworks modernos.</string>
+    <string name="chuck_title_about">Quem é Chuck Norris?</string>
+</resources>
