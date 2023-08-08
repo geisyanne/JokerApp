@@ -17,3 +17,5 @@ Etapas:
 - Identidade visual e ícones costumizáveis 
 
 ## Layout mobile
+
+![layoutmobile1](https://github.com/geisyanne/JokerApp/blob/207902beb2be20b5386b48d47bac591313c55261/for_readme.gif)
